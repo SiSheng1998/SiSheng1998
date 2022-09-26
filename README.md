@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Si Sheng
-Final year computer science undergraduate at Universiti Sains Malaysia (USM). Love to join events. Interested in web development, JavaScript and related libraries / frameworks. Passionate about programming and designing.<br><br>
+Passionate about full stack web development and design. Specialized in JavaScript and its frameworks / libraries. Independent, highly motivated, and proactive self-starter.<br><br>
 
 ### Skills
 ###### Natural Languages
 English, Mandarin, Malay<br>
 
 ###### Web Development
-HTML, CSS, JS, PHP, jQuery, WordPress, ReactJS, ExpressJS, NodeJS, MongoDB, TailwindCSS<br>
+HTML, CSS, JS, PHP, jQuery, WordPress, ReactJS, ExpressJS, NodeJS, MongoDB, TailwindCSS, TypeScript, Python, Django<br>
 
 ###### Creative Design Software
 Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Adobe Xd, Figma<br><br>
